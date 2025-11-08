@@ -71,10 +71,9 @@ income distribution, andratings to better understand and segment the customer ba
 
 ---
 
-## 🧑‍💻 Developed By
 
-**👤 Z.I. Turjo**  
-📍 *Data Analyst | Power BI Developer | Dashboard Designer*  
+
+**👤 Z.I. Turjo**    
 🔗 [https://www.linkedin.com/in/zahidul-islam-turjo-609549320/]
 
 ---
